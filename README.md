@@ -2,7 +2,7 @@
 A linux challenge game
 
 ## Level 2
-```ruby
+```javascript
 bandit1@bandit:~$ ls
 -
 bandit1@bandit:~$ cat ~/-
